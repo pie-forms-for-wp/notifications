@@ -1,3 +1,26 @@
 [
-    
+    {
+        "title":"Accept Donations with PayPal",
+        "content":"Collect payment through forms for Free.",
+        "id":1,
+        "btns":{
+            "main":{
+                "url":"https://pieforms.com/addons/paypal-donation/?utm_source=admindashboard&utm_medium=notification&utm_campaign=freeuser",
+                "text":"Download Addon Now"
+            }
+        },
+        "start":"2021-11-22 00:00:00"
+    },
+    {
+        "title":"Translate User Response Automatically",
+        "content":"Get user response in your preferred language.",
+        "id":2,
+        "btns":{
+            "main":{
+                "url":"https://pieforms.com/addons/smart-translator/?utm_source=admindashboard&utm_medium=notification&utm_campaign=freeuser",
+                "text":"Download Smart Translator addon for Free"
+            }
+        },
+        "start":"2021-11-22 00:00:00"
+    }
 ]
